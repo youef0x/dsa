@@ -1,10 +1,10 @@
 /*
+ * pb2
  * Description 	: Ranking based Division classification 
  * Link		: https://codeforces.com/problemset/problem/1669/A
  * Language	: C++
  *
  * This code utilizes the ternary operator instead of nesting if-elses
- *
  */
 
 

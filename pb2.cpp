@@ -25,7 +25,7 @@ int main()
 	{	
 		cin >> rating;
 		
-		(rating<=1399) 					? division[i]=4 :
+		(rating<=1399) 			? division[i]=4 :
 		(rating>=1400 && rating<=1599) 	? division[i]=3 :
 		(rating>=1600 && rating<=1899) 	? division[i]=2 : division[i]=1;									 
 		
